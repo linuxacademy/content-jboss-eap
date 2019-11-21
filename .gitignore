@@ -1,3 +1,4 @@
 # OSX cruft
 .DS_Store
+.*
 labfiles/.*
